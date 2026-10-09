@@ -29,3 +29,7 @@ example/build/
 .env
 .env.local
 .env.*
+# Test coverage and local example dependency state
+coverage/
+example/pubspec.lock
+example/.flutter-plugins-dependencies
